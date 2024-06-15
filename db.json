@@ -1,4 +1,8 @@
 {
-    "username": "marquin.pablo@gmail.com",
-    "password": "123"
+    "users": [
+        {
+            "username": "marquin.pablo@gmail.com",
+            "password": "123"
+        }
+    ]
 }
