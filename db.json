@@ -1,8 +1,12 @@
 {
-    "users": [
+    "products": [
         {
-            "username": "marquin.pablo@gmail.com",
-            "password": "123"
+            "name": "Perfume",
+            "price": 100
+        },
+        {
+            "name": "Lotion",
+            "price": 30
         }
     ]
 }
